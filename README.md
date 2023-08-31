@@ -20,7 +20,7 @@ Expense Tracker is a simple web application built using Flask, HTML, CSS, and a 
 ## Getting Started
 
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip3 install -r requirements.txt`
 3. Run the app: `python3 app.py`
 4. Access the app in your web browser at `http://localhost:5000`
 

@@ -1,10 +1,8 @@
-/* Reset some default styles */
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
-/* Basic styling for the body */
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;

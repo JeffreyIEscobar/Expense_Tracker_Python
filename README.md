@@ -37,6 +37,10 @@ This project was created by Jeffrey I. Escobar and is just a personal project fo
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+## Contributing
+
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
+
 ## Contact
 
 For questions or feedback, please contact Jeffrey I. Escobar via Jeffreyianescobar@gmail.com
